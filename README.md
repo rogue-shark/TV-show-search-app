@@ -1,6 +1,6 @@
 #Very basic TV show search app
 
-<a href="https://rogue-shark.github.io/TV-show-search-app/" style="border: 2px solid steelblue;">DEMO</a>     
+<span style="color: green"><a href="https://rogue-shark.github.io/TV-show-search-app/">DEMO</a></span>
     <a href="https://github.com/rogue-shark/TV-show-search-app">REPO link</a>
 
 
