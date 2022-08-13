@@ -1,0 +1,38 @@
+body {
+  background-color: smokewhite;
+  font-family: "Courier New", Courier, monospace;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.container {
+}
+
+input, form{
+  margin: 1em 0;
+  padding: 0.5em 0;
+}
+::placeholder {
+  font-family: "Courier New", Courier, monospace;
+}
+
+button {
+  border: 1px solid blue;
+  font-weight: 900;
+  letter-spacing: 2px;
+  padding: 0.5em 1em;
+  margin: 0 .5em;
+}
+
+.button-1:hover{
+   background-color: black;
+   color: white;
+}
+
+.button-2{
+  border: 2px solid red;
+}
+.button-2:hover{
+  border: 2px solid red;
+  background-color: rgb(245, 106, 106);
+}
